@@ -9,7 +9,7 @@ redirect_from:
 
 Thank you for visiting my website.
 
-I am Vatsalya Sharma, from [Dehradun] (https://en.wikipedia.org/wiki/Dehradun), Uttarakhand, India. I am currently working as a Research Scientist in Center for Mathematical Plasma Astrophysics (CmPA), at KU Leuven, Belgium. Before that I did my Masters and then my PhD in the Mechanical and Aerospace Department at the Indian Institute of Technology, Hyderabad, India. 
+I am Vatsalya Sharma, from [Dehradun](https://en.wikipedia.org/wiki/Dehradun), Uttarakhand, India. I am currently working as a Research Scientist in Center for Mathematical Plasma Astrophysics (CmPA), at KU Leuven, Belgium. Before that I did my Masters and then my PhD in the Mechanical and Aerospace Department at the Indian Institute of Technology, Hyderabad, India. 
 
 Research is a journey of self and scientific discovery, and just like light, my research has dual nature. I focus on exploring new science for developing future high speed aerovehicles through large CFD code development. High speed vehicles, particularly those flying at hypersonic speeds, require CFD codes that accurately model the different non-equilibrium processes that take place at these speeds. The codes must be fast, memory efficient and robust! So, one should be a good Theromynamist, Chemist, Programmer and Mechanical Engineer.
 
@@ -17,7 +17,7 @@ Below you can find my key research interests in brief, that are further explaine
 
 Hypersonic Flow and MHD:
 ======
-During my stay at KU Leuven, my research focuses on computationally exploring interactions between plasma generated during atmospheric entry and Magnetohydrodynamics (MHD). As plasma is inherently electrically conductive, this approach can open new directions for heat management and blackout mitigation to create reusable thermal protection systems adaptable to various planetary atmospheres. To accomplish this objective, I have developed a 3D finite volume-based unstructured grid CFD solver within the in-house [COOLFluiD] (https://github.com/andrealani/COOLFluiD/wiki) framework in C++ and Python.
+During my stay at KU Leuven, my research focuses on computationally exploring interactions between plasma generated during atmospheric entry and Magnetohydrodynamics (MHD). As plasma is inherently electrically conductive, this approach can open new directions for heat management and blackout mitigation to create reusable thermal protection systems adaptable to various planetary atmospheres. To accomplish this objective, I have developed a 3D finite volume-based unstructured grid CFD solver within the in-house [COOLFluiD](https://github.com/andrealani/COOLFluiD/wiki) framework in C++ and Python.
 
 Getting started
 ======
