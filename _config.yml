@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Vatsalya Sharma / Site Title"
+title                    : "Vatsalya Sharma / Research Scientist"
 title_separator          : "-"
 name                     : &name "Vatsalya Sharma"
-description              : &description "personal description"
+description              : &description "Reserach Scientist"
 url                      : https://vatsalyasharma.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #repository               : "academicpages/academicpages.github.io"
@@ -21,13 +21,13 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "vatsalyasharma1.JPG" #image folder
   name             : "Vatsalya Sharma"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Research Scientist"
   location         : "Leuven, Belgium"
   employer         : "KU Leuven"
-  uri              : https://en.wikipedia.org/wiki/KU_Leuven# URL
+  uri              : https://en.wikipedia.org/wiki/KU_Leuven   # URL
   email            : "vatsalya.sharma@kuleuven.be" 
 
   # Academic websites
