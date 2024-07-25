@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr. Vatsalya Sharma / Research Scientist"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Vatsalya Sharma"
-description              : &description "Reserach Scientist"
+description              : &description "Reserach Scientist "
 url                      : https://vatsalyasharma.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #repository               : "academicpages/academicpages.github.io"
@@ -72,6 +72,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # URL
+
 
 
 # Site Settings
@@ -283,6 +284,7 @@ permalink: /:categories/:title/
 # paginate_path: /page:num/
 timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+plugins_dir: _plugins
 
 # Plugins
 plugins:
@@ -291,6 +293,8 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-livereload
+
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -298,6 +302,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-livereload
 
 
 # Archives
