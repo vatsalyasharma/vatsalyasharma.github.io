@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Home"
-title_separator          : "-"
+title_separator          : "-" 
 name                     : &name "Vatsalya Sharma"
 description              : &description "Reserach Scientist "
 url                      : https://vatsalyasharma.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
