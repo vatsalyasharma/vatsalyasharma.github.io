@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Thank you for visiting my website.
+Thank you for visiting my website. The website is still under construction and will be released soon.
 
 I am Vatsalya Sharma, from [Dehradun, Uttarakhand, India](https://en.wikipedia.org/wiki/Dehradun). I am currently working as a Research Scientist in Center for Mathematical Plasma Astrophysics (CmPA), at KU Leuven, Belgium. Before that I did my Masters and then my PhD in the Mechanical and Aerospace Department at the [Indian Institute of Technology, Hyderabad, India](https://www.iith.ac.in/). 
 
