@@ -267,7 +267,15 @@ defaults:
       path: ""
       type: talks
     values:
-      layout: talk
+      layout: single
+      author_profile: true
+      share: true
+  # _talks
+  - scope:
+      path: ""
+      type: games
+    values:
+      layout: single
       author_profile: true
       share: true
 
