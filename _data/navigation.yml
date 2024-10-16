@@ -15,8 +15,8 @@ main:
   - title: "Profile"
     url: /cv/
 
-  - title: "Updates"
-    url: /year-archive/
+  #- title: "Updates"
+  #  url: /year-archive/
     
   - title: "Games"
     url: /markdown/
