@@ -2,3 +2,34 @@
 
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}
+
+<script>
+  const themeToggle = document.getElementById('theme-toggle');
+  const html = document.documentElement;
+
+  function setTheme(theme) {
+    html.setAttribute('data-theme', theme);
+    localStorage.setItem('theme', theme);
+    if (theme === 'dark') {
+      themeToggle.innerHTML = 'Light Mode';
+    } else {
+      themeToggle.innerHTML = 'Dark Mode';
+    }
+  }
+
+  themeToggle.addEventListener('click', function(e) {
+    e.preventDefault();
+    const currentTheme = html.getAttribute('data-theme');
+    if (currentTheme === 'dark') {
+      setTheme('light');
+    } else {
+      setTheme('dark');
+    }
+  });
+
+  // On page load, check for saved theme preference
+  document.addEventListener('DOMContentLoaded', (event) => {
+    const savedTheme = localStorage.getItem('theme') || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    setTheme(savedTheme);
+  });
+</script>

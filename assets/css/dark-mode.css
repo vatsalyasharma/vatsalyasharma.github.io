@@ -1,0 +1,123 @@
+/* Dark Mode Styles */
+[data-theme="dark"] {
+  --background-color: #000000;
+  --text-color: #e0e0e0;
+  --primary-color: #bb86fc;
+  --link-color: #03dac6;
+  --link-color-hover: #ffffff;
+  --masthead-link-color: #e0e0e0;
+  --masthead-link-color-hover: #ffffff;
+  --border-color: #333333;
+  --code-background-color: #000000;
+  --code-background-color-dark: #333333;
+
+  body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+  }
+
+  a {
+    color: var(--link-color);
+  }
+
+  a:hover {
+    color: var(--link-color-hover);
+  }
+
+  .masthead {
+    background-color: #000000;
+    border-bottom-color: var(--border-color);
+  }
+  
+  .masthead__inner-wrap {
+    background-color: #000000;
+  }
+
+  .masthead__menu-button {
+    background-color: transparent;
+    color: var(--text-color);
+  }
+
+  .masthead__title a {
+    color: var(--text-color);
+  }
+
+  .masthead__menu .nav-list .nav-list-item a {
+    color: var(--masthead-link-color);
+  }
+
+  .masthead__menu .nav-list .nav-list-item a:hover {
+    color: var(--masthead-link-color-hover);
+  }
+
+  #site-nav {
+    background-color: #000000;
+  }
+
+  .sidebar {
+    background-color: #000000;
+    border-right-color: var(--border-color);
+  }
+  
+  .author__avatar img {
+    border: 1px solid var(--border-color);
+  }
+
+  .author__content {
+    background-color: #000000;
+  }
+  
+  .author__name, .author__bio {
+    color: var(--text-color);
+  }
+
+  .author__urls .social-icons i,
+  .author__urls .social-icons svg {
+    color: var(--text-color);
+  }
+
+  .page {
+    background-color: var(--background-color);
+  }
+
+  .page__inner-wrap {
+    background-color: #000000;
+    border-color: var(--border-color);
+  }
+
+  .page__title, .page__lead, .archive__item-title {
+    color: var(--text-color);
+  }
+
+  .archive__item {
+    border-bottom-color: var(--border-color);
+  }
+
+  .archive__item-excerpt, .archive__item-meta {
+    color: var(--text-color);
+  }
+
+  .feature__item {
+    background-color: #000000;
+    border-color: var(--border-color);
+  }
+
+  .page__footer {
+    background-color: #000000;
+    border-top-color: var(--border-color);
+  }
+
+  .page__footer-copyright, .page__footer-credits {
+    color: var(--text-color);
+  }
+
+  pre, code {
+    background: var(--code-background-color);
+    color: var(--text-color);
+    border-color: var(--border-color);
+  }
+  
+  .language-plaintext {
+      background: var(--code-background-color) !important;
+  }
+}
