@@ -7,10 +7,7 @@ main:
     url: /publications/
 
   - title: "Conferences"
-    url: /talks/
-
-  - title: "Teaching"
-    url: /teaching/  
+    url: /conferences/
 
   - title: "Profile"
     url: /cv/
@@ -20,4 +17,3 @@ main:
     
   #- title: "Updates"
   #  url: /year-archive/
-    
