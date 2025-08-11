@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-### Journal Articles
-# Articles
 
-Publications are in _publications/publications.md
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
