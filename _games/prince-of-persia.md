@@ -11,6 +11,8 @@ This is the first video game that I ever played when I was around 4 years old, i
 ## Play Prince of Persia
 
 <iframe src="https://vatsalyasharma.github.io/princeofpersia_1_dos/" width="640" height="400" frameborder="0"></iframe>
+<br/>
+<a href="https://vatsalyasharma.github.io/princeofpersia_1_dos/" target="_blank">Play in Full Screen</a>
 
 ## Game Summary
 
