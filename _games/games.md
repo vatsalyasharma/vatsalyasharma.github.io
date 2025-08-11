@@ -6,11 +6,8 @@ layout: new_archive
 
 ### Games
 
-This is games page. Click the games below to play on your browser. Click the other link, on how to play it.
+This is the games page. Click the games below to play on your browser.
 
 ## Available Games
 
-- [prince of persia 1989 (MSDOS)](https://vatsalyasharma.github.io/princeofpersia_1_dos/)
-- [How to play]
-
-
+- [Prince of Persia (1989)](/games/prince-of-persia/)
