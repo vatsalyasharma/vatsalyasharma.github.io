@@ -4,8 +4,11 @@ title: "Conferences"
 permalink: /conferences/
 author_profile: true
 ---
-### Conference Proceedings
 
+There are {{ site.conferences | size }} conferences.
+
+<ol>
 {% for post in site.conferences reversed %}
-  {% include archive-single.html %}
+  <li>{% include archive-single.html %}</li>
 {% endfor %}
+</ol>

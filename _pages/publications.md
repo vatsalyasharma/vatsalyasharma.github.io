@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+<ol>
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  <li>{% include archive-single.html %}</li>
 {% endfor %}
+</ol>
