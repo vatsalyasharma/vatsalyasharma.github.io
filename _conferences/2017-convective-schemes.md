@@ -1,6 +1,5 @@
 ---
 title: "Performance Of Convective Schemes In Density-Based Solver"
-collection: conferences
 permalink: /conference/2017-convective-schemes
 excerpt: "Chandra, A. S. Saket and **Sharma, Vatsalya** and Assam, Ashwani and Eswaran, Vinayak"
 date: 2017-12-27

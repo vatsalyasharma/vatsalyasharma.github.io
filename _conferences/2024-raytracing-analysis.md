@@ -1,6 +1,5 @@
 ---
 title: "Raytracing Analysis of Blackout Phases During {Earth} Re-Entry"
-collection: conferences
 permalink: /conference/2024-raytracing-analysis
 excerpt: "Giangaspero, Vincent and **Sharma, Vatsalya** and Lani, Andrea and Poedts, Stefaan"
 date: 2024-07-29

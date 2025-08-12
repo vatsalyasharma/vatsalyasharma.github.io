@@ -1,6 +1,5 @@
 ---
 title: "Numerical Simulation of Turbulent High-Speed Plane Jets- A Validation with Experimental Results"
-collection: conferences
 permalink: /conference/2017-turbulent-jets
 excerpt: "**Sharma, Vatsalya** and Assam, Ashwani and Eswaran, Vinayak"
 date: 2017-12-27

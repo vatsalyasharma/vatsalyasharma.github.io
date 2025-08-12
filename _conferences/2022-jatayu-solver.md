@@ -1,6 +1,5 @@
 ---
 title: "Development and Validation of Jatayu--an In-House CFD solver for High-Speed Aerospace Applications"
-collection: conferences
 permalink: /conference/2022-jatayu-solver
 excerpt: "**Sharma, Vatsalya** and Eswaran, Vinayak and Chakraborty, Debasis"
 date: 2022-01-01

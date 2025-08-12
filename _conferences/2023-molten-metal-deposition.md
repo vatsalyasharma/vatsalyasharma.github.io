@@ -1,7 +1,6 @@
 ---
 title: " A novel molten metal deposition-based additive manufacturing
 technique for aluminum alloys "
-collection: conferences
 permalink: /conference/2023-molten-metal-deposition
 excerpt: "Kapil, Angshuman and **Sharma, Vatsalya** and De Pauw, Jan and Sharma, Abhay"
 date: 2023-07-16

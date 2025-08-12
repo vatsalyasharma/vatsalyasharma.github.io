@@ -1,6 +1,5 @@
 ---
 title: "Development of All Speed Three-Dimensional Computational Fluid Dynamics Solver For Unstructured Grids”
-collection: conferences
 permalink: /conference/2016-all-speed-cfd-solver
 excerpt: "**Sharma, Vatsalya** and Assam, Ashwani and Eswaran, Vinayak"
 date: 2016-12-15
